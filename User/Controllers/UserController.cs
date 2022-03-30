@@ -105,7 +105,7 @@ namespace User.API.Controllers
             }
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("{GetImage}")]
         public async Task<IActionResult> GetImage(int ID)
         {
             var result = await _repository.GetPerson(ID);
