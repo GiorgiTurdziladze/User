@@ -1,0 +1,15 @@
+C:\Users\Phoenix\source\repos\User\User.BLL\bin\Debug\net5.0\User.BLL.deps.json
+C:\Users\Phoenix\source\repos\User\User.BLL\bin\Debug\net5.0\User.BLL.dll
+C:\Users\Phoenix\source\repos\User\User.BLL\bin\Debug\net5.0\ref\User.BLL.dll
+C:\Users\Phoenix\source\repos\User\User.BLL\bin\Debug\net5.0\User.BLL.pdb
+C:\Users\Phoenix\source\repos\User\User.BLL\bin\Debug\net5.0\User.DAL.dll
+C:\Users\Phoenix\source\repos\User\User.BLL\bin\Debug\net5.0\User.DAL.pdb
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\User.BLL.csproj.AssemblyReference.cache
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\User.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\User.BLL.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\User.BLL.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\User.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\User.BLL.dll
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\ref\User.BLL.dll
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\User.BLL.pdb
+C:\Users\Phoenix\source\repos\User\User.BLL\obj\Debug\net5.0\User.BLL.csproj.CopyComplete
